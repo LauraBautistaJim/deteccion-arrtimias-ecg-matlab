@@ -58,7 +58,7 @@ El algoritmo genera:
   Script principal en MATLAB para el procesamiento y análisis del ECG.
 
 - `100.dat`, `100.hea`, `100.atr`  
-  Archivos correspondientes al registro 100 de la base de datos MIT-BIH.
+  Archivos correspondientes a los registros 100 - 111 de la base de datos MIT-BIH.
 
 ---
 
@@ -79,7 +79,7 @@ PhysioNet: https://physionet.org/content/mitdb/1.0.0/
 
 ## Autor
 
-**Laura Bautista**  
+**Laura Shunashi Bautista Jiménez**  
 Estudiante de Ingeniería Biomédica
 
 ---
